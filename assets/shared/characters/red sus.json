@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-6, -13],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-5, -13],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-5, -13],
+			"loop": true,
+			"fps": 15,
+			"anim": "singLEFT-loop",
+			"indices": [11, 12],
+			"name": "left"
+		},
+		{
+			"offsets": [-29, -13],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [-29, -13],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [-29, -13],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Red Actin Sus",
+	"position": [200, 410],
+	"healthicon": "posto",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [10, 40],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

@@ -5,6 +5,4 @@ a remaster of the vs impostor mod with everything remade (exept bf gf sprites mo
 ![cool ass new sprites](docs/gifs/redAnims.gif)
 these animations took like 8 hours to make so i hope you like them
 
-### Penis
-
 "# Vs-impostor-remastered" 
